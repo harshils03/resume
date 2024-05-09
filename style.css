@@ -1,0 +1,87 @@
+/* Basic Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9;
+}
+
+.container {
+    background-color: #f1f1f1;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Header Styles */
+header {
+    background-color: #f1f1f1;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+/* Header Styles */
+.name {
+    font-size: 50px; /* Adjust the font size as per your preference */
+}
+
+
+h1 {
+    font-size: 28px;
+    margin-bottom: 5px;
+}
+
+h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+p {
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Section Styles */
+section {
+    background-color: #fff;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Experience Section Styles */
+.experience li {
+    margin-bottom: 10px;
+}
+
+/* Skills Section Styles */
+.skills li {
+    margin-bottom: 10px;
+}
+
+/* Project Section Styles */
+.projects li {
+    margin-bottom: 10px;
+}
+
+/* Certification Section Styles */
+.certifications li {
+    margin-bottom: 10px;
+}
+
+/* Languages Section Styles */
+.languages li {
+    margin-bottom: 10px;
+}
+
